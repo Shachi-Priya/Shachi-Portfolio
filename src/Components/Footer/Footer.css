@@ -21,6 +21,9 @@
     gap: 2rem;
   }
   @media screen and (max-width: 480px){
+    .footer{
+      height:19.5vh;
+    }
     .f-content{
       transform: scale(0.5);
     }
